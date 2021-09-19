@@ -1,0 +1,19 @@
+.hora-espacio {
+    border: 2px solid black;
+    text-align: center;
+    min-height: 25px;
+}
+.notificaciones-alertas{
+    border: 2px solid black;
+    min-height: 25px;
+}
+.boton-alertas {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: lightgray;
+    transition: 0.2s;
+}
+.boton-alertas:hover {
+    background-color: black;
+    color: white;
+}
